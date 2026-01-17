@@ -5,7 +5,6 @@
 ### ⭐️ About Me
 - I’m currently working on **Web Projects**
 - I’m currently learning **Advanced React And JavaScript**
-- Fun fact: **I love solving logic puzzles!**
 
 ---
 
