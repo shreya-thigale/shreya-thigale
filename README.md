@@ -1,4 +1,4 @@
-<img src="finalbanner.jpeg" alt="Shreya Banner" />
+<img src="Shreya_Thigale.png" alt="Shreya Banner" />
 
 ---
 
